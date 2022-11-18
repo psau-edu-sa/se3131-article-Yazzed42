@@ -1,2 +1,1 @@
-# se3131-article-Yazzed42
-se3131-article-Yazzed42 created by GitHub Classroom
+ the file above is description of formal specifications and it's advantages and disadvantages.
